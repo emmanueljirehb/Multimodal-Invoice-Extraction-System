@@ -1,4 +1,4 @@
-# Multimodal-Invoice-Extraction-System
+# Multimodal Invoice Extraction System
 
 
 ### High-Precision Multimodal Invoice Data Extraction using AWS Bedrock + LLM
