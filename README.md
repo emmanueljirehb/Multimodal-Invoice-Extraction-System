@@ -313,7 +313,11 @@ This project demonstrates:
 # code
 <img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/e12ca4f3-747d-4946-9536-59e9c62d540d" />
 
-## image from the pdf which was used to extraction
+## processed pdf containing 4000+ pages
+
+<img width="960" height="560" alt="image" src="https://github.com/user-attachments/assets/fe357209-e79d-497f-90cb-443901c0cbb9" />
+
+## sample image from the pdf which was used to extraction
 
 <img width="443" height="466" alt="Image" src="https://github.com/user-attachments/assets/41841e02-c3df-4310-ada3-bba5ad69f56b" />
 
